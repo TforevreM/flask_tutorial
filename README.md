@@ -32,4 +32,7 @@ Initialized the database.
 ```
 然后再次运行启动命令即可。
 
+![image](https://user-images.githubusercontent.com/81068011/196606937-c31566d7-5906-4cd1-ac59-1b2dc70d1c74.png)
+
+
 其他更详细的内容，请查看 [Tutorial — Flask Documentation (2.2.x)](https://flask.palletsprojects.com/en/2.2.x/tutorial/)
