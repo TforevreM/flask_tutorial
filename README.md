@@ -10,7 +10,7 @@ https://flask.palletsprojects.com/en/2.2.x/quickstart/ 代码
 ```
 flask --app flaskr --debug run
 ```
-出现一下输出，则表明成功运行
+出现以下输出，则表明成功运行
 ```
 * Debug mode: on
 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
